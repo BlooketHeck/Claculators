@@ -1,4 +1,4 @@
-# If you would like to use the adder go to https://www.programming-hero.com/code-playground/python/index.html and paste the code for num 3-5 leave 0 if blank.
+# If you would like to use the adder go to https://www.programming-hero.com/code-playground/python/index.html and paste the code. For num 3-5 leave 0 if blank.
 import math
 
 num1 = float(input("Input the first number you'd like to add:"))

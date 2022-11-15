@@ -1,2 +1,2 @@
-# MATH
-MATH
+# Calculators
+Some calculators using python!
